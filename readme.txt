@@ -20,6 +20,7 @@ CUIs:
 
 
 LINUX: To build and install code
+https://rtklibexplorer.wordpress.com/2020/12/18/building-rtklib-code-in-linux/
 
 CUIs:
 1) cd app/consapp/<appName>/gcc

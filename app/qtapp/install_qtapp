@@ -1,4 +1,4 @@
-BIN_DIR="../../../RTKLIB_bin"
+BIN_DIR="../../install/RTKLIB_bin"
 
 if [ ! -e $BIN_DIR ]; then
 	mkdir $BIN_DIR
